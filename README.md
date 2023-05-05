@@ -279,7 +279,7 @@ To further support the game's development and offer players the opportunity to c
 
 ### Premium Subscription: Season Pass
 
-Path to Ragnarok will also offer a premium subscription model in the form of a Battle Pass or Season Pass. This subscription will grant players access to exclusive rewards, such as unique cosmetic items, special in-game events, and other bonuses. The focus will remain on maintaining a balanced gameplay experience, ensuring that premium subscribers do not gain an unfair advantage over other players.
+Path to Ragnarok will also offer a premium subscription model in the form of a Season Pass. This subscription will grant players access to exclusive rewards, such as unique cosmetic items, special in-game events, and other bonuses. The focus will remain on maintaining a balanced gameplay experience, ensuring that premium subscribers do not gain an unfair advantage over other players.
 
 By adopting a balanced monetization strategy, Path to Ragnarok aims to provide a fair and enjoyable experience for all players while generating revenue to support the game's continued development and success.
 
