@@ -65,7 +65,7 @@ Exploring the game world and encountering new NPC civilizations can lead to uniq
 
 ### End Game and Universe Reset
 
-The ultimate goal in _Path to Ragnarok_ is to research the final Seal, "Trancedance," which triggers the end of the universe and resets the game world. Each play Season is expected to last between 3 and 6 months, depending on player activity. Leaderboards track top performers from previous Seasons, and players can carry over certain accomplishments or rewards to the next play Season.
+The ultimate goal in _Path to Ragnarok_ is to research the final Seal, "Transcendence," which triggers the end of the universe and resets the game world. Each play Season is expected to last between 3 and 6 months, depending on player activity. Leaderboards track top performers from previous Seasons, and players can carry over certain accomplishments or rewards to the next play Season.
 
 
 ## Seals and Technology Progression <a name="seals-and-technology-progression"></a>
